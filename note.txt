@@ -1,0 +1,12 @@
+repository local (trong máy user)
+
+repository remote (trên git hun)
+
+tạo repository local: git init
+
+push: đưa source từ máy (local) lên github (remote)
+
+    3 bước (chọn, xác nhận, gửi)
+    b1: git add -A
+    b2: git commit -m "nội dung của commit"
+    b3: git push -u origin master (lần đầu)  /  git push (lần 2 trở đi)
