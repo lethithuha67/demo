@@ -10,3 +10,41 @@ push: đưa source từ máy (local) lên github (remote)
     b1: git add -A
     b2: git commit -m "nội dung của commit"
     b3: git push -u origin master (lần đầu)  /  git push (lần 2 trở đi)
+
+
+
+
+
+
+
+
+    b1: 
+    git init: khai báo một vùng nhớ git trong máy ở thư mục hiện tại tại
+    b2:
+    git add note.txt : add file note.txt vào vùng nhớ git trong máy của mình
+    git add -A or git add . : thực thi tất cả các file trong folder hiện tại
+    b3:
+    git commit -m "first commit": xác nhận lệnh commit với 1 nội dung đã thay  đổi gì trong file note.txt
+    git add + ten file : thực thi trên 1 file
+    -m " nội dung " , -m :messgae
+    b4:
+    git branch -M main : thiết lập kết nối vào nhánh chính của cái repo : vùng nhớ trên github( nhà trọ)
+    b5:
+    git remote add origin https://github.com/lethithuha67/demo.git : thiết lập git đến repo(nhà chủ)
+    b6:
+    git push -u origin main : đẩy code lên cái nhánh đang thiết lập 
+
+
+
+    b1: thiết lập
+    b2: thực thi
+    b3: thực thi
+    b4: vừa thực thi vừa có thể thiết lập (ít làm trừ khi thay đổi nhánh)
+    b5: thiết lập
+    b6:thực thi
+
+git status
+git add + tên file: là thực thi vào vùng nhớ của máy chủ
+
+git add . : là thực thi tất cả file vào vùng nhớ của máy chủ
+git status : kiểm tra trạng thái của các foder đã đc add vào git hay chưa ()
