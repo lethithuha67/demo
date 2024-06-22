@@ -54,4 +54,10 @@ git commit :
 
 git status: 
 
+git push -u origin [branch name] ( thay đổi branch main) :  
+
 tôi đã học xong commit
+
+tạo nhánh hà : git checkout -b ha(chú thích  [branch name])
+
+git checkout [branch name]: đang ở hàm main và chưa đi qua đc nhánh ha
