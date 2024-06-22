@@ -56,4 +56,3 @@ git status:
 
 tôi đã học xong commit
 
-git merge [branch name]: phải đứng ở  nhánh chính rồi mới kéo nhánh phụ về 
