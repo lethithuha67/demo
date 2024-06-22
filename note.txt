@@ -52,4 +52,6 @@ git status : kiểm tra trạng thái của các foder đã đc add vào git hay
 git commit : 
 
 
+git status: 
+
 tôi đã học xong commit
