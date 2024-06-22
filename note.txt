@@ -48,3 +48,8 @@ git add + tên file: là thực thi vào vùng nhớ của máy chủ
 
 git add . : là thực thi tất cả file vào vùng nhớ của máy chủ
 git status : kiểm tra trạng thái của các foder đã đc add vào git hay chưa ()
+
+git commit : 
+
+
+tôi đã học xong commit
